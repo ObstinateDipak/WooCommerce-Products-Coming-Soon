@@ -1,10 +1,11 @@
 === Products Coming Soon ===
 Contributors: dipakbbsr
 Donate link: https://www.paypal.me/dipakpusti
-Tags: comments, spam
-Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 4.3
+Tags: products, coming soon, woocommerce, e-commerce, sales
+Requires PHP: 5.6
+Requires at least: 4.0
+Tested up to: 5.2
+Stable tag: 0.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
